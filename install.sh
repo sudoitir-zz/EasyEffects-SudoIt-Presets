@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# This script automatically detect the EasyEffects presets directory and installs the presets
 
 GIT_REPOSITORY="https://raw.githubusercontent.com/sudoitir/PulseEffects-SudoIt-Presets/master"
 

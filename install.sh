@@ -11,7 +11,7 @@ check_install() {
     echo "Error! Couldn't find EasyEffects presets directory!"
     exit 1
   fi
-  mkdir -p $PRESETS_DIRECTORY
+  mkdir -p "$PRESETS_DIRECTORY"
 }
 
 check_impulse_response_directory() {
